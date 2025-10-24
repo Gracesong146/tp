@@ -3,7 +3,8 @@ plugins {
     id 'checkstyle'
     id 'com.github.johnrengelman.shadow' version '7.1.2'
     id 'application'
-    id 'jacoco'
+    id 'jacoco';
+    id 'org.openjfx.javafxplugin' version '0.0.14'
 }
 
 mainClassName = 'seedu.address.Main'
