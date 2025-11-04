@@ -38,7 +38,6 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
         "neighbourly-developer-guide": "Neighbourly Developer Guide",
         "acknowledgements": "Acknowledgements",
@@ -166,6 +165,20 @@
         "code-contributed": "Code contributed",
         "project-management": "Project Management",
         "documentation": "Documentation",
+        "community": "Community"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/j-os-h-in.md",
+      "title": "Jo Shin's Project Portfolio Page",
+      "headings": {
+        "project-neighbourly": "Project: Neighbourly",
+        "overview": "Overview",
+        "enhancements-contributions": "Enhancements / Contributions",
+        "project-management-team-based-tasks": "Project Management / Team-based tasks",
+        "contributions-to-the-user-guide-ug": "Contributions to the User Guide (UG)",
+        "contributions-to-the-developer-guide-dg": "Contributions to the Developer Guide (DG)",
         "community": "Community"
       },
       "headingKeywords": {}
